@@ -1,3 +1,10 @@
+# IMPORTANT DESCRIPTION
+
+I've deployed the DUMMY token to Rinkeby test network. This is the Cotnract address "0xD839fA2AF61A43c01516B93A8fDeE1DCDA6b77fd".
+You might want to test this with the rinkeby network since I implemented some chain verifiers in order to force the user to use the rinkeby network (just as pancake swap force the user to use BSC).
+
+So, you can deploy a new dummy token into rinkeby chain and modify the token.ts file with the new contract address. Or you cas ask me and I can transfer you some DUMMY tokens into your account.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
